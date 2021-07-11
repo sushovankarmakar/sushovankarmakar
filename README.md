@@ -1,16 +1,20 @@
-### Hi there 👋 I'm Sushovan Karmakar
+### Hi there 👋 I'm [Sushovan Karmakar](https://www.linkedin.com/in/sushovankarmakar/)
+
+- 🔭 I’m currently working on Spring Boot, React
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushovankarmakar&label=Profile+Views&color=blue&style=plastic" alt="sushovankarmakar" /> </p>
+
+![](https://hit.yhype.me/github/profile?user_id=51905183)
 
 <!--
-**sushovankarmakar/sushovankarmakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Spring Boot, React
-- 🌱 I’m currently learning Spring Boot, React
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: ...
 -->
