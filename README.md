@@ -20,7 +20,17 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sushovankarmakar&theme=merko&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
-
+<h2 align='center'>
+  <i><a href="https://github.com/sushovankarmakar/github-readme-activity-graph">Activity Graph 📈</i>
+</h2>
+<p align="center">
+  <a href="https://github.com/sushovankarmakar/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sushovankarmakar&theme=react-dark&hide_title=true&area=true&hide_border=true" 
+         width="100%">
+  </a>
+</p>
+  
+  
 <!-- RESOURCE I've used to :
 
 1. ![](https://hit.yhype.me/github/profile?user_id=51905183)
