@@ -21,7 +21,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sushovankarmakar&theme=merko&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
 <h2 align='center'>
-  <i><a href="https://github.com/sushovankarmakar/github-readme-activity-graph">Activity Graph 📈</i>
+  <i><a href="https://github.com/sushovankarmakar/github-readme-activity-graph">Last 30 days Activity Graph 📈</i>
 </h2>
 <p align="center">
   <a href="https://github.com/sushovankarmakar/github-readme-activity-graph">
@@ -30,11 +30,11 @@
   </a>
 </p>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushovankarmakar&theme=dracula)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushovankarmakar&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushovankarmakar&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushovankarmakar&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushovankarmakar&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushovankarmakar&theme=dracula)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushovankarmakar&theme=dracula)   -->
   
   
 <!-- RESOURCE I've used to :
