@@ -4,16 +4,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushovankarmakar&label=Profile+Views&color=blue&style=plastic" alt="sushovankarmakar" /> </p>
 
-<!-- ![](https://hit.yhype.me/github/profile?user_id=51905183) -->
+<!--  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sushovankarmakar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sushovankarmakar&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushovankarmakar&show_icons=true&count_private=true&theme=merko" alt="sushovankarmakar" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushovankarmakar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sushovankarmakar&show_icons=true&count_private=true&theme=merko" alt="sushovankarmakar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushovankarmakar&layout=compact" />
+</div>
 
-<!-- [![sushovan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sushovankarmakar)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- RESOURCE I've used to :
 
+1. ![](https://hit.yhype.me/github/profile?user_id=51905183)
+2. (https://github.com/anuraghazra/github-readme-stats)
+3. [![sushovan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sushovankarmakar)](https://github.com/anuraghazra/github-readme-stats)
+4. 
+-->
 
 <!--
 
