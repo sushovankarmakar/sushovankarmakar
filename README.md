@@ -15,7 +15,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sushovankarmakar&show_icons=true&count_private=true&theme=merko" alt="sushovankarmakar" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushovankarmakar&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushovankarmakar&layout=compact&theme=merko" />
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sushovankarmakar&theme=merko&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
