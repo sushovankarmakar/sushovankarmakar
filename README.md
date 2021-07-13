@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [Sushovan Karmakar](https://www.linkedin.com/in/sushovankarmakar/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=269F61&lines=Full+stack+web+dev;Open+source+enthusiast)](https://git.io/typing-svg)
-
+<img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 I’m currently working on Spring Boot, React
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushovankarmakar&label=Profile+Views&color=blue&style=plastic" alt="sushovankarmakar" /> </p>
@@ -30,6 +30,12 @@
   </a>
 </p>
   
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushovankarmakar&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushovankarmakar&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushovankarmakar&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushovankarmakar&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushovankarmakar&theme=dracula)  
+  
   
 <!-- RESOURCE I've used to :
 
@@ -38,6 +44,8 @@
 3. [![sushovan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sushovankarmakar)](https://github.com/anuraghazra/github-readme-stats)
 4. (https://git.io/streak-stats)
 5. https://github.com/DenverCoder1/readme-typing-svg
+6. https://github.com/Ashutosh00710/github-readme-activity-graph
+7. https://github.com/vn7n24fzkq/github-profile-summary-cards
 -->
 
 <!--
