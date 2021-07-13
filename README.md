@@ -11,18 +11,20 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=sushovankarmakar&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sushovankarmakar&show_icons=true&count_private=true&theme=merko" alt="sushovankarmakar" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushovankarmakar&layout=compact" />
 </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sushovankarmakar&theme=merko&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+
 
 <!-- RESOURCE I've used to :
 
 1. ![](https://hit.yhype.me/github/profile?user_id=51905183)
 2. (https://github.com/anuraghazra/github-readme-stats)
 3. [![sushovan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sushovankarmakar)](https://github.com/anuraghazra/github-readme-stats)
-4. 
+4. (https://git.io/streak-stats)
 -->
 
 <!--
