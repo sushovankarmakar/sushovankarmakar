@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm [Sushovan Karmakar](https://www.linkedin.com/in/sushovankarmakar/)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=269F61&lines=Full+stack+web+dev;Open+source+enthusiast)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on Spring Boot, React
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushovankarmakar&label=Profile+Views&color=blue&style=plastic" alt="sushovankarmakar" /> </p>
@@ -25,6 +27,7 @@
 2. (https://github.com/anuraghazra/github-readme-stats)
 3. [![sushovan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sushovankarmakar)](https://github.com/anuraghazra/github-readme-stats)
 4. (https://git.io/streak-stats)
+5. https://github.com/DenverCoder1/readme-typing-svg
 -->
 
 <!--
