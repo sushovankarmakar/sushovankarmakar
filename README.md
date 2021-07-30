@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm [Sushovan Karmakar](https://www.linkedin.com/in/sushovankarmakar/)
 
+A good code is like a story, not a puzzle
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=269F61&lines=Full+stack+web+dev;Open+source+enthusiast)](https://git.io/typing-svg)
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 I’m currently working on Spring Boot, React
