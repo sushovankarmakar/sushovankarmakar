@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Sushovan Karmakar](https://www.linkedin.com/in/sushovankarmakar/)
+### Hi there 👋 I'm [Sushovan Karmakar](https://www.linkedin.com/in/sushovankarmakar/) Arranging zeros and ones in the right order
 
 A good code is like a story, not a puzzle
 
