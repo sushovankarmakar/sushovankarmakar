@@ -4,7 +4,7 @@ A good code is like a story, not a puzzle
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=269F61&lines=Full+stack+web+dev;Open+source+enthusiast)](https://git.io/typing-svg)
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-- 🔭 I’m currently working on Spring Boot, React
+- 🔭 I’m currently working on Java, Spark, Spring Boot
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushovankarmakar&label=Profile+Views&color=blue&style=plastic" alt="sushovankarmakar" /> </p>
 
@@ -22,7 +22,16 @@ A good code is like a story, not a puzzle
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sushovankarmakar&theme=merko&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
-<h2 align='center'>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sushovankarmakar&bg_color=151e16&color=b8c7bc&line=547312&point=afc030&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushovankarmakar&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushovankarmakar&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushovankarmakar&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushovankarmakar&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushovankarmakar&theme=gotham&utcOffset=8)
+
+![](https://hit.yhype.me/github/profile?account_id=51905183)
+
+<!-- <h2 align='center'>
   <i><a href="https://github.com/sushovankarmakar/github-readme-activity-graph">Last 30 days Activity Graph 📈</i>
 </h2>
 <p align="center">
@@ -30,7 +39,7 @@ A good code is like a story, not a puzzle
     <img src="https://activity-graph.herokuapp.com/graph?username=sushovankarmakar&theme=react-dark&hide_title=true&area=true&hide_border=true" 
          width="100%">
   </a>
-</p>
+</p> -->
   
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushovankarmakar&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushovankarmakar&theme=dracula)
