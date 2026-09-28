@@ -1,14 +1,11 @@
-### Hi there 👋 I'm [Sushovan Karmakar](https://www.linkedin.com/in/sushovankarmakar/) Arranging zeros and ones in the right order
+### Hi there 👋 I'm [Sushovan Karmakar](https://www.linkedin.com/in/sushovankarmakar/) - Data + AI Engineer
 
-A good code is like a story, not a puzzle
-
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=269F61&lines=Full+stack+web+dev;Open+source+enthusiast)](https://git.io/typing-svg)
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 I’m currently working on Java, Spark, Spring Boot
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushovankarmakar&label=Profile+Views&color=blue&style=plastic" alt="sushovankarmakar" /> </p>
-
-<!--  -->
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -30,6 +27,7 @@ A good code is like a story, not a puzzle
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushovankarmakar&theme=gotham&utcOffset=8)
 
 ![](https://hit.yhype.me/github/profile?account_id=51905183)
+-->
 
 <!-- <h2 align='center'>
   <i><a href="https://github.com/sushovankarmakar/github-readme-activity-graph">Last 30 days Activity Graph 📈</i>
